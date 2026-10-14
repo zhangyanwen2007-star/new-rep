@@ -1,1 +1,2 @@
-#include<iostream>
+#include<iostream>t
+//this is main
